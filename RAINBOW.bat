@@ -1,3 +1,4 @@
+@echo off
 :rainbow
 @echo WOW! SO COLORFUL!!!
 color B4
